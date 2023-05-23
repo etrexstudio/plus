@@ -1,56 +1,56 @@
 [
   {
-    "nome": "Obi-Wan Kenobi",
-    "url": "https://vizer.tv/serie/online/obi-wan-kenobi",
-    "img": "https://vizer.tv/content/series/posterPt/342/21255.jpg",
-    "detalhe": "Nota: 9.1\nAno: 2022\nDuração média: 60m"
+    "nome": "Amor e Morte",
+    "url": "https://vizer.tv/serie/online/amor-e-morte",
+    "img": "https://vizer.tv/content/series/posterPt/342/22314.webp",
+    "detalhe": "Nota: 7.8\nAno: 2023\nDuração média: 60m"
   },
   {
-    "nome": "Stranger Things",
-    "url": "https://vizer.tv/serie/online/stranger-things",
-    "img": "https://vizer.tv/content/series/posterPt/342/4803.jpg",
-    "detalhe": "Nota: 8.7\nAno: 2016\nDuração média: 50m"
+    "nome": "Citadel",
+    "url": "https://vizer.tv/serie/online/citadel",
+    "img": "https://vizer.tv/content/series/posterPt/342/22315.webp",
+    "detalhe": "Nota: 6.9\nAno: 2023\nDuração média: 42m"
   },
   {
-    "nome": "This is Us",
-    "url": "https://vizer.tv/serie/online/this-is-us",
-    "img": "https://vizer.tv/content/series/posterPt/342/3681.webp",
-    "detalhe": "Nota: 8.8\nDuração média: 25m\nAno: 2013"
+    "nome": "Uma Pequena Luz",
+    "url": "https://vizer.tv/serie/online/uma-pequena-luz",
+    "img": "https://vizer.tv/content/series/posterPt/342/22319.webp",
+    "detalhe": "Nota: 7.3\nDuração média: 55m\nAno: 2023"
   },
   {
-    "nome": "Better Call Saul",
-    "url": "https://vizer.tv/serie/online/better-call-saul",
-    "img": "https://vizer.tv/content/series/posterPt/342/5313.jpg",
-    "detalhe": "Nota: 8.8\nAno: 2015\nDuração média: 45m"
+    "nome": "Treta",
+    "url": "https://vizer.tv/serie/online/treta",
+    "img": "https://vizer.tv/content/series/posterPt/342/22268.webp",
+    "detalhe": "Nota: 7.6\nAno: 2023\nDuração média: 60m"
   },
   {
-    "nome": "Cavaleiro da Lua",
-    "url": "https://vizer.tv/serie/online/cavaleiro-da-lua",
-    "img": "https://vizer.tv/content/series/posterPt/342/19606.jpg",
-    "detalhe": "Nota: 9.0\nAno: 2022\nDuração média: 60m"
+    "nome": "O Silo",
+    "url": "https://vizer.tv/serie/online/o-silo",
+    "img": "https://vizer.tv/content/series/posterPt/342/22322.webp",
+    "detalhe": "Nota: 8.3\nAno: 2023\nDuração média: 60m"
   },
   {
-    "nome": "Halo",
-    "url": "https://vizer.tv/serie/online/halo",
-    "img": "https://vizer.tv/content/series/posterPt/342/19609.webp",
-    "detalhe": "Nota: 6.6\nAno: 2022\nDuração média: 60m"
+    "nome": "Succession",
+    "url": "https://vizer.tv/serie/online/succession",
+    "img": "https://vizer.tv/content/series/posterPt/342/4376.webp",
+    "detalhe": "Nota: 8.8\nAno: 2018\nDuração média: 65m"
   },
   {
-    "nome": "Cavaleiro da Lua",
-    "url": "https://vizer.tv/serie/online/cavaleiro-da-lua",
-    "img": "https://vizer.tv/content/series/posterPt/342/19606.jpg",
-    "detalhe": "Nota: 9.0\nAno: 2022\nDuração: 60m"
+    "nome": "Ted Lasso",
+    "url": "https://vizer.tv/serie/online/ted-lasso",
+    "img": "https://vizer.tv/content/series/posterPt/342/18965.webp",
+    "detalhe": "Nota: 8.9\nAno: 2020\nDuração: 30m"
   },
   {
-    "nome": "Taboo",
-    "url": "https://vizer.tv/serie/online/taboo",
-    "img": "https://vizer.tv/content/series/posterPt/342/5276.webp",
-    "detalhe": "Nota: 9.0\nAno: 2010\nDuração média: 90m"
+    "nome": "Sweet Tooth",
+    "url": "https://vizer.tv/serie/online/sweet-tooth",
+    "img": "https://vizer.tv/content/series/posterPt/342/19365.webp",
+    "detalhe": "Nota: 7.9\nAno: 2021\nDuração média: 45m"
   },
   {
-    "nome": "Peaky Blinders: Sangue, Apostas e Navalhas",
-    "url": "https://vizer.tv/serie/online/peaky-blinders-sangue-apostas-e-navalhas",
-    "img": "https://vizer.tv/content/series/posterPt/342/4991.webp",
-    "detalhe": "Nota: 6.8\nAno: 2013\nDuração média: 60m"
+    "nome": "Os Encanadores da Casa Branca",
+    "url": "https://vizer.tv/serie/online/os-encanadores-da-casa-branca",
+    "img": "https://vizer.tv/content/series/posterPt/342/22320.webp",
+    "detalhe": "Nota: 7.0\nAno: 2023\nDuração média: 60m"
   }
 ]
