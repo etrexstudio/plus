@@ -9,7 +9,7 @@
   "episodio": 0,
   "imagev": "https://vizer.in/content/movies/posterPt/342/39212.webp",
   "isfilme": true,
-  "active": false,
+  "active": true,
   "version": 10,
   "linkVersion": "https://adapter.com"
 }
